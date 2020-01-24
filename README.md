@@ -1,2 +1,2 @@
-Just go through the notebook. Its cotains all necessary explanations in it
+Just go through the notebook. Its contains all necessary explanations in it
 .
